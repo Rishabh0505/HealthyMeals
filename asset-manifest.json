@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HealthyMeals/static/css/main.b298114b.chunk.css",
+    "main.js": "/HealthyMeals/static/js/main.f2d275c2.chunk.js",
+    "main.js.map": "/HealthyMeals/static/js/main.f2d275c2.chunk.js.map",
+    "runtime-main.js": "/HealthyMeals/static/js/runtime-main.a1218454.js",
+    "runtime-main.js.map": "/HealthyMeals/static/js/runtime-main.a1218454.js.map",
+    "static/js/2.c4e5f921.chunk.js": "/HealthyMeals/static/js/2.c4e5f921.chunk.js",
+    "static/js/2.c4e5f921.chunk.js.map": "/HealthyMeals/static/js/2.c4e5f921.chunk.js.map",
+    "index.html": "/HealthyMeals/index.html",
+    "static/css/main.b298114b.chunk.css.map": "/HealthyMeals/static/css/main.b298114b.chunk.css.map",
+    "static/js/2.c4e5f921.chunk.js.LICENSE.txt": "/HealthyMeals/static/js/2.c4e5f921.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/HealthyMeals/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1218454.js",
+    "static/js/2.c4e5f921.chunk.js",
+    "static/css/main.b298114b.chunk.css",
+    "static/js/main.f2d275c2.chunk.js"
+  ]
+}
