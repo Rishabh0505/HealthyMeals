@@ -36,7 +36,6 @@ In order to run the application Type the following command
 ```bash
 npm start
 ```
-#### The Application Runs on localhost:3000 ####
 
 ## Screenshots ## 
 <img width="1420" alt="Screenshot 2021-07-22 at 9 56 19 AM" src="https://user-images.githubusercontent.com/51152041/126595379-f0170de6-9b69-4c91-9392-d6385252457a.png">
