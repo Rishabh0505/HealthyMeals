@@ -1,8 +1,10 @@
 # Healthy-Meals
-Created Using ReactJs Hooks, CSS, JSX </br>
+Created Using ReactJs Hooks,Firebase, CSS, JSX </br>
 * Dynamic Design
 * Users can add the food item as well as the quantity in the Cart
 * Cart Modal is also dynamically designed to customize the order.
+* Form Validation Inluded.
+* Dynamic Data Collection from User using Firebase.
 
 
 ## Prerequisites
