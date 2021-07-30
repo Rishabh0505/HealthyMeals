@@ -18,10 +18,7 @@ npm install -g create-react-app
 ```
 
 
-Click on the link to see the application
 
-## Live Application URL ##
-<https://https://rishabh0505.github.io/HealthyMeals/>
 
 ## Cloning and Running the Application in local ##
 Clone the project into local
@@ -40,5 +37,6 @@ npm start
 ## Screenshots ## 
 <img width="1420" alt="Screenshot 2021-07-22 at 9 56 19 AM" src="https://user-images.githubusercontent.com/51152041/126595379-f0170de6-9b69-4c91-9392-d6385252457a.png">
 <img width="1416" alt="Screenshot 2021-07-22 at 9 56 43 AM" src="https://user-images.githubusercontent.com/51152041/126595389-06a9987b-f4b9-40c7-b3ca-6b7b1d6b0ed5.png">
+<img width="1426" alt="Screenshot 2021-07-30 at 11 34 02 PM" src="https://user-images.githubusercontent.com/51152041/127694359-a8618568-d065-4072-a910-70b7a92030f4.png">
 
 
